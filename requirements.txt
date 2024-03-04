@@ -1,0 +1,13 @@
+tensorflow
+fastapi
+uvicorn
+numpy
+pandas
+keras
+starlette
+io
+pillow
+IPython
+gtts
+http
+PIL
