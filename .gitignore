@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.python-version
+
+#Audios
+*.mp3
+
+# Models
+*.h5
+
 # C extensions
 *.so
 
